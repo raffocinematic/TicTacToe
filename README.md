@@ -1,2 +1,2 @@
 # TicTacToe
-Banale gioco del tris
+Ho ricreato il semplice gioco del Tris
